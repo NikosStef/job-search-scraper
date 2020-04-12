@@ -1,1 +1,7 @@
-Scraper of popular job website and export of jobs and specifications to a CSV file. \n\n Written in Python, using Selenium and Pandas.
+Scraper of popular job website and export of jobs and specifications to a CSV file. 
+
+Written in Python, using Selenium and Pandas.
+
+**TO-DO:**
+- add arguments for different job and location searches
+- extend source code to apply to desired positions who support quick apply.
